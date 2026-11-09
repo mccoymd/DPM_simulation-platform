@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.env
+
+settings.json
+
+.vscode/
+
+.streamlit/
+
+data/
+
+.ipynb_checkpoints/
