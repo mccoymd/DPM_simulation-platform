@@ -1,10 +1,10 @@
-def run_simulation(parameters):
+def run_simulation(workflow_id):
 
-    print("Running simulation")
+    return {
 
-    results = {
-        "status": "complete",
-        "n_results": 100
+        "workflow_id":
+        workflow_id,
+
+        "status":
+        "success"
     }
-
-    return results
